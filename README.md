@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 npm run dev
 ```
 🌟 Tech stack: React + TailwindCSS + Daisy UI
+
+![bg color](https://github.com/Yashjain9425/BG_colorChanger/assets/115392464/dd9e2e1c-5a2a-4ebf-9aea-464804127ac1)
